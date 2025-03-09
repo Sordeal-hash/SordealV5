@@ -1,22 +1,4 @@
-<h1 align="center">
-   Blank Grabber
-</h1>
-<p align= "center">
-   <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
-   </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
-   <br>
-   <br>
-   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
+
 </p>
 
 ## Project Status: Coming to an End
@@ -31,8 +13,7 @@ However, as the saying goes, all good things must come to an end. As I approach 
 
 I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
 
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
-
+I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: 
 I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
 
 While this marks the end of my direct involvement with this project, I sincerely hope that the codebase and knowledge shared here will continue to benefit the community.
